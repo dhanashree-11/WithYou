@@ -16,8 +16,8 @@ Whether you are walking alone at night, going on a trip, or facing any potential
 
 #### Requirements
 <ul>
-<ol>Android Studio</ol>
-<ol>Android device with USB debugging enabled</ol>
+<li>Android Studio</li>
+<li>Android device with USB debugging enabled</li>
 <p align="center">
 <img src="output.jpg" alt="Logo" width="700" height="350">
 </p>
