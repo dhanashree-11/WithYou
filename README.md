@@ -19,18 +19,14 @@ Whether you are walking alone at night, going on a trip, or facing any potential
 <li>Android Studio</li>
 <li>Android device with USB debugging enabled</li>
 <p align="center">
-<img src="Picture1.jpg" alt="Logo" width="200" height="450">
+<img src="Picture1.jpg" alt="Logo" width="190" height="350">
+<img src="Picture2.jpg" alt="Logo" width="190" height="350">
 </p>
 <p align="center">
-<img src="Picture2.jpg" alt="Logo" width="200" height="450">
+<img src="Picture3.jpg" alt="Logo" width="190" height="350">
+<img src="Picture4.jpg" alt="Logo" width="190" height="350">
 </p>
 <p align="center">
-<img src="Picture3.jpg" alt="Logo" width="200" height="450">
-</p>
-<p align="center">
-<img src="Picture4.jpg" alt="Logo" width="200" height="450">
-</p>
-<p align="center">
-<img src="Picture5.jpg" alt="Logo" width="200" height="450">
+<img src="Picture5.jpg" alt="Logo" width="190" height="350">
 </p>
 
